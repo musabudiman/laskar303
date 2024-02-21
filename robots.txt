@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /
+
+Sitemap: https://laskar303-adc.pages.dev/sitemap.xml
